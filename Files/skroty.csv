@@ -1,0 +1,131 @@
+AH,Authentication Header,nagłówek uwierzytelniania
+API,Application Programming Interface,interfejs programów użytkowych
+ARP,Address Resolution Protocol,protokół odwzorowywania adresów
+ASCII,American Standard Code for Information Interchange,standardowy amerykański kod wymiany informacji
+ASIC,Application Specific Integrated Circuit,układ scalony właściwy aplikacji
+AS,Autonomous System, system autonomiczny
+ATM,Asynchronous Transfer Mode, tryb przesyłania asynchronicznego
+bps,bits per second,bity na sekunde
+BRA,Basic Rate Access,dostęp w trybie podstawowym
+BPDU,Bridge Protocol Data Unit,,jednostka danych protokołu mostu
+CIR,Committed Information Rate,przepustowość gwarantowana umową
+CBR,Committed Burst Rate,przepustowość chwilowa gwarantowana umową
+CHAP,Challenge Handshake Authentication Protocol,protokół wymiany wyzwania uwierzytelniającego
+CIDR,Classless InterDomain Routing,bezklasowy routing międzydomenowy
+CIFS,Common Internet File System,powszechny internetowy system plików
+CIR,Committed Information Rate,zagwarantowany poziom transmisji
+CoS,Class Of Service,klasa usługi
+CPE,Customer-premises Equipment,zakończenie sieci telekomunikacyjnej znajdujące się u klienta
+CRC,Cyclic Redundancy Check,cykliczna kontrola nadmiarowa
+DCE,Data Communications Equipment,urządzenie końcowe łącza teleinformatycznego
+DDP,Datagram Delivery Protocol,protokół dostarczania datagramów
+DES,Data Encription Standard,standard szyfrowania danych
+DFS,Dynamic Frequency Selection,dynamiczny wybór częstotliwości
+DHCP,Dynamic Host Configuration Protocol,protokół dynamicznej konfiguracji hosta
+DLCI,Data Link Connection Identifier,jednoznaczny identyfikator łącza danych
+DNS,Domain Name System,system nazw domenowych
+DSAP,Destination Service Access Point,punkt dostępu usługi docelowej
+DSH,Digital Signal Hierarchy,hierarchia sygnałów cyfrowych
+DSL,Digital Subscriber Line,cyfrowa linia abonencka
+DTE,Data Terminal Equipment,terminal teleinformatyczny
+DWDM,Dense Wavelength Division Multiplexing,multipleksacja z gęstym podziałem falowym
+EIA,Electronics Industry Association,Towarzystwo Przemysłu Elektronicznego
+ESP,Encapsulating Security Payload,enkapsulowanie ładunku bezpieczeństwa
+FDDI,Fiber Distributed Data Interface,światłowodowy interfejs danych rozproszonych
+FCS,Frame Check Sequence,sekwencja kontrolna ramki
+FR,Frame Relay,przekazywanie ramek
+FTP,File Transfer Protocol,protokół przesyłania plików
+Gb,gigabit,gigabit
+GB,gigabyte,gigabajt
+GNS,Get Nearest Server,uzyskaj dostęp do najbliższego serwera
+GRE,Generic Routing Encapsulation,ogólna enkapsulacja dla routingu
+HDLC,High-level Data Link Control,wysokopoziomowe sterowanie łączem danych
+HTML,Hypertext Markup Language,język hipertekstowego znakowania informacji
+HTTP,Hypertext Transfer Protocol,protokół przesyłania hipertekstu
+ICMP,Internet Control Message Protocol,protokół sterowania wiadomością internetową
+IDEA,International Data Encription Algorithm,międzynarodowy algorytm szyfrowania danych
+IDF,Intermediate Distribution Facility pośredni,węzeł dystrybucyjny
+IEEE,Institute of Electrical and Electronics Engineers,Instytut Inżynierów Elektryków i Elektroników
+IGRP,Interior Gateway Routing Protocol,protokół routingu wewnętrznej bramy
+IKE,Internet Key Exchange,internetowa wymiana klucza
+ILD,Injection Laser Diode,iniekcyjna dioda laserowa
+IMAP,Internet Mail Access Protocol,protokół dostępu do poczty internetowej
+IP,Internet Protocol,protokół internetowy
+IPX,Internetwork Packet eXchange,protokół wymiany pakietów sieci firmy Novell
+ISDN,Integrated Services Digital Network,sieć cyfrowa usług zintegrowanych
+ISO,International Standards Organization,Organizacja Standardów Międzynarodowych
+ISP,Internet Service Provider,dostawca usług internetowych
+Kb,kilobit,kilobit
+KB,kilobyte,kilobajt
+LAN,Local Area Network,lokalna sieć komputerowa
+LAPB,Link Access Procedure Balanced,zrównoważona procedura dostępu do łącza
+LED,Light Emitting Diode,dioda emitująca światło
+LLC,Logical Link Control,sterowanie łączem logicznym
+MAC,Media Access Control,sterowanie dostępem do nośnika
+MAN,Municipal Area Network,miejska sieć komputerowa
+Mb,megabit,megabit
+MB,megabyte,megabajt
+MD5,Message Digest 5,skrót wiadomości 5
+MDF,Main Distribution Facility,główny węzeł dystrybucyjny
+MIB,Management Information Base,baza informacji zarządzania
+MIME,Multipurpose Internet Mail Extension,uniwersalne rozszerzenie poczty internetowej
+MDI,Media Dependent Interface,interfejs zależny od medium
+MPLS,Multi-Protocol Label Switching,wieloprotokołowe przełączanie etykiet
+NAP,Network Access Point,punkt dostępu do sieci
+NAT,Network Address Translation,translacja adresów sieciowych
+NCP,NetWare Core Protocol,protokół rdzeniowy systemu Netware
+NEXT,Near-End CrossTalk,poziom przesłuchu zbliżnego
+NFS,Network File System,sieciowy system plików
+NIC,Network Interface Card,karta interfejsu sieci
+NLSP,NetWare Link Services Protocol,protokół usług łącza danych firmy Netware
+NNTP,Network News Transfer Protocol,protokół przesyłania wiadomości w sieci Internet
+OC,Optical Carrier,system nośników optycznych
+OSI,Open Systems Interconnection,łączenia systemów otwartych
+OSPF,Open Shortest Path First,otwórz najkrótszą ścieżkę
+OUI,Organizational Unique Identifier,unikatowy identyfikator organizacji
+PAD,Packet Assembler/Disassembler,asembler/disasembler pakietów
+PAP,Password Authentication Protocol,protokół uwierzytelniania hasła
+PAR,Positive Acknowledgement with Retransmission,pozytywne potwierdzenie z retransmisją
+PCM,Pulse Coded Modulation,modulacja impulsowa
+PDN,Privite Data Networks,cyfrowe sieci publiczne
+PLC,PowerLine Communications,komunikacja wykorzystująca linie energetyczne
+POP,Post Office Protocol,protokoł urzędu pocztowego
+POTS,Plain Old Telephone Service,tradycyjna telefonia
+PPP,Point-to-Point Protocol,protokół transmisji bezpośredniej
+PSE,Packet Switching Exchange,centrala komutacji pakietów
+PVC,Permanent Virtual Circuit,stałe łącze wirtualne
+QoS,Quality Of Service,jakość usługi
+RARP,Reverse Address Resolution Protocol,protokół odwrotnego odwzorowywania adresów
+RIP,Routing Information Protocol,protokół informacji routingu
+RTP,Real-time Transport Protocol,protokól transportowy czasu rzeczywistego
+SAP,Service Advertisment Protocol,protokół rozgłaszania usługi
+SDH,Synchronous Digital Hierarchy,hierarchia cyfrowych sygnałów synchronicznych
+SDLC,Synchronous Data Link Control,sterowanie synchronicznym łączem danych
+SFD,Start of Frame Delimiter,ogranicznik początku ramki
+SIP,Session Initialization Protocol,protokół inicjacji sesji
+SMB,Server Message Block protocol,protokół bloków komunikatów serwera
+SMTP,Simple Mail Transport Protocol,prosty protokół przesyłania poczty
+SNA,Systems Network Architecture,architektura sieci systemów
+SNAP,Sub-Network Access Protocol,protokół dostępu podsieci
+SNMP,Simple Network Management Protocol,prosty protokół zarządzania siecią
+SONET,Synchronous Optical NETwork,synchroniczna sieć optyczna
+SPX,Sequenced Packet Exchange,protokół sekwencyjnej wymiany pakietów
+SSAP,Source Service Access Point,punkt dostępu usługi źródłowej
+SSH,Secure SHell,bezpieczna powłoka
+STM,Synchronous Transport Module,moduł transportu synchronicznego
+STS,Synchronous Transport Signal,system sygnałów transportu synchronicznego
+STP,Spanning Tree Protocol,protokół częściowego drzewa
+SVC,Switched Virtual Circuit,komutowany obwód wirtualny
+TCP,Transmission Control Protocol,protokół sterowania transmisją
+TELNET,Network Terminal Protocol,protokół końcówki sieciowej
+TFTP,Trivial File Transfer Protocol,trywialny protokół przesyłania plików
+TIA,Telecommunications Industry Association,Towarzystwo Przemysłu Telekomunikacyjnego
+TORMAN,TORun Municipal Area Network,toruńska miejska sieć komputerowa
+TPC,Transmission Power Control,sterowanie moca sygnalu
+UDP,User Datagram Protocol,protokol datagramow użytkownika
+URL,Universal Resource Locator,ujednolicony lokalizator zasobow
+UTP,Unshielded Twisted Pair,nieekranowana skretka
+VLAN,Virtual LAN,wirtualna lokalna siec komputerowa
+WAN,Wide Area Network,rozlegla siec komputerowa
+WLAN,Wireless Local Area Network,lokalna bezprzewodowa siec komputerowa
+WWW,World Wide Web,swiatowa pajeczyna
