@@ -30,6 +30,8 @@ namespace Kobus_Snopbus
                     shortcuts.Add(sh);
                 }
             }
+
+
         }
     }
 }

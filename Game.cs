@@ -66,6 +66,8 @@ namespace Kobus_Snopbus
                 if (answer == "N")
                     flaga = false;
             }
+
+
         }
     }
 }

@@ -22,5 +22,7 @@ namespace Kobus_Snopbus
             _ang = ang;
             _pl = pl;
         }
+
+
     }
 }

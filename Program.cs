@@ -15,5 +15,7 @@ class Program
         Game Fight = new Game(shortcuts);
         file.Read(shortcuts);
         Fight.Start();
+
+
     }
 }
